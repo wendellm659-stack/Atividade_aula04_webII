@@ -1,0 +1,14 @@
+{
+  "name": "atividade_aula04",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "prisma": "^5.22.0"
+  }
+}
